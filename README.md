@@ -1,2 +1,2 @@
 # Multiplier
-Project of analog multiplier for AGH UST for Systems and Electronics Circuits subject
+Project of analog multiplier for Systems and Electronics Circuits subject
