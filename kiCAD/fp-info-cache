@@ -1,4 +1,4 @@
-22085368407995407
+22087069176245271
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -51750,6 +51750,13 @@ SOIC127P600X175-8N
 0
 8
 8
+Custom
+SOT-363_DUAL_PNP
+
+CMKT3906 TR PBFREE 
+0
+6
+6
 Custom
 TLV3402IDR_SOIC8
 
